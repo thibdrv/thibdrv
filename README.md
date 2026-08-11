@@ -1,6 +1,6 @@
 # Hi there, I'm Thibaud 👋
 
-### Data Analyst & Full-Stack Developer
+### Data Analyst & Web Developer
 
 I bridge the gap between complex raw data and actionable business strategy, while building end-to-end web solutions to make insights accessible, interactive, and actionable.
 
