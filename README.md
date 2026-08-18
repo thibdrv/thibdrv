@@ -22,13 +22,3 @@ I bridge the gap between complex raw data and actionable business strategy, whil
 ---
 
 ## Projects
-
-### Business Intelligence Dashboard
-* **Stack:** Power BI, SQL, Python
-* **Overview:** Designed an end-to-end BI dashboard to track core KPIs, identify key trends, and provide decision-ready insights for strategic planning.
-* **Impact:** Reduced reporting effort and provided clear visibility into key operational metrics.
-
-### Data-Driven Web Application
-* **Stack:** Php, SQL, REST API, JavaScript
-* **Overview:** Developed a full-stack tool that ingests raw data, processes statistical models, and exposes results via an interactive user interface.
-* **Impact:** Simple full-stack web application.
