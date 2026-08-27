@@ -21,4 +21,4 @@ I bridge the gap between complex raw data and actionable business strategy, buil
 
 ---
 
-## Projects :
+## You can see some projects below :
