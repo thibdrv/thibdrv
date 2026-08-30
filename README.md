@@ -8,7 +8,7 @@ ______
 
 ### Stack :
 
-**Analyst :** SQL, Python (Pandas, Matplotlib, Seaborn, Numpy, Scikit-Learn), Power BI, KPI, Statistical Analysis
+**Analyse :** SQL, Python (Pandas, Matplotlib, Seaborn, Numpy, Scikit-Learn), Power BI, KPI, Statistical Analysis
 
 **Development :** Python, PHP, JavaScript, REST APIs, Relationnal Database Design
 
