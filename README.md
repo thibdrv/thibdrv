@@ -9,15 +9,21 @@ ______
 ### Stack :
 
 **Analyst :** SQL, Python (Pandas, Matplotlib, Seaborn, Numpy, Scikit-Learn), Power BI, KPI, Statistical Analysis
+
 **Development :** Python, PHP, JavaScript, REST APIs, Relationnal Database Design
 
 ______
 
 ### What I do :
-Dashboards & KPIs :T urning business needs into actionable metrics
+
+Dashboards & KPIs : Turning business needs into actionable metrics
+
 Advanced SQL : Analytical queries & data modeling
+
 ETL Pipelines : Data ingestion, cleaning & transformation (Python/SQL)
+
 Data-Driven Web Apps : Dashboards & APIs built into custom tools
+
 ______
 
 ## You can see some projects below :
