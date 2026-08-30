@@ -1,24 +1,23 @@
-# Hi there, I'm Thibaud 👋
+# Hi, I'm Thibaud 👋
 
-### Data Analyst & Web Developer
+Data Analyst & Web Developer
 
-I bridge the gap between complex raw data and actionable business strategy, building end-to-end web solutions to make insights accessible, interactive, and impactful.
+I turn raw data into business decisions, and build the web tools to make it accessible.
 
-* **Data Analytics & BI :** SQL, Python (Pandas, Matplotlib, Seaborn, Numpy, Scikit-Learn), Power BI, KPI, Statistical Analysis...
-* **Full-Stack Development :** Python, PHP, JavaScript, REST APIs, Relationnal Database Design
-* **Tools & Environment :** Git / GitHub, Linux (Ubuntu), Data Pipelines (ETL)
+______
 
+### Stack :
 
-### Data Analytics & Business Intelligence
-* **KPI & Insights :** Transforming business requirements into measurable metrics and executive dashboards.
-* **Advanced SQL :** Designing complex analytical queries, data modeling, and performance optimization.
-* **Data Pipelines :** Building reproducible ETL pipelines using Python and Pandas / SQL for data ingestion, cleaning, and transformation.
+**Analyst :** SQL, Python (Pandas, Matplotlib, Seaborn, Numpy, Scikit-Learn), Power BI, KPI, Statistical Analysis
+**Development :** Python, PHP, JavaScript, REST APIs, Relationnal Database Design
 
+______
 
-### Full-Stack Integration
-* **Data-Driven Web Applications :** Integrating analytical dashboards and backend APIs into web tools.
-* **Database Management :** Structuring relational schemas to support scalable analytical workflows.
-
----
+### What I do :
+Dashboards & KPIs :T urning business needs into actionable metrics
+Advanced SQL : Analytical queries & data modeling
+ETL Pipelines : Data ingestion, cleaning & transformation (Python/SQL)
+Data-Driven Web Apps : Dashboards & APIs built into custom tools
+______
 
 ## You can see some projects below :
